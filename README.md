@@ -1,6 +1,6 @@
 # The Supplementary Material Repository for Bioinformatics Data Skills
 
-This repository contains the supplementary files used in my book,
+This repository contains the supplementary files used in VB's book,
 [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do),
 published by O'Reilly Media. In addition to the supplementary files needed for
 examples in the book, this repository contains:
@@ -20,3 +20,4 @@ bioinformatics tools that will not go out of date is this rapidly changing
 field, if certain tools do become obsolete I will use this repository to host
 and describe alternatives.
 
+### EA Following Book 2025
