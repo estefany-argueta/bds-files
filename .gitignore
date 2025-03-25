@@ -1,0 +1,19 @@
+*
+# This ignores everything but these files
+!*/
+!*README
+!*.sh
+!*.bash
+!*.py
+!*.R
+!*.perl
+!*.pl
+!*.ipynb
+!*makefile
+!DEF
+!*.pdf
+!*.md
+!*.log
+!*.err
+!*.txt
+!*.gitignore

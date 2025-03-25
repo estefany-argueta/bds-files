@@ -21,4 +21,7 @@ field, if certain tools do become obsolete I will use this repository to host
 and describe alternatives.
 
 ### EA Following Book 2025
-chapter 4 on 20250310
+chapter 5 on 20250325
+
+## See Chapter 05 for github notes
+There is a github script for pushing and a script to check for your gitignore file
