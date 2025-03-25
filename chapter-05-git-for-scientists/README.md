@@ -53,3 +53,12 @@ on branches in their own repositories, and others pulling these commits into
 the master branch of the project. The simplest introduction to Github Flow is
 [Understanding Github Flow](https://guides.github.com/introduction/flow/).
 
+
+## EA Notes: 
+When moving and removing files we should use 'git mv' and 'git rm'. 
+
+For example, if our readme doens't have an extension (.md_) and we want to change the file., we would use 'git mv':
+- git mv README README.md # Changing type of doc
+- git mv data/README data/README.md
+
+However this isn't sotred into your repositoryt unitl you hit commit. 
