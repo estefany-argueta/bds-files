@@ -88,3 +88,6 @@ easily be turned into a dictionary with:
 If you're interested in where the "one feverish night" quote came from, it's
 from a document by [Doug
 McIlroy](http://doc.cat-v.org/unix/unix-reader/reader.pdf).
+
+## EA Notes:
+Tab-delinated files are most commonly used, often for formats such as BED, GTF/GFF, SAM, Blast Etc. 
